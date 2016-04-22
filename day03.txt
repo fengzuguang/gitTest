@@ -1,0 +1,6 @@
+include <std.h>
+public class Hellow{
+	public String main(arg[]){
+		system.out.println("hellow world!");
+	}
+}
